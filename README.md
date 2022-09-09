@@ -10,8 +10,8 @@ The resource is stored in a json file, where each key represent the Dbpedia uri 
 
 
 ### Authors
-Gennaro Nolano[^1] 
-Maria Pia di Buono[^1]    
+Gennaro Nolano[^1]  
+Maria Pia di Buono[^1]      
 Johanna Monti[^1]  
 [^1]: Unior NLP Research Group, University of Naples "L'Orientale"
 
